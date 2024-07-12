@@ -34,7 +34,7 @@ const Navbar = () => {
     <nav className="px-5 md:relative z-20">
       <div className="container mx-auto flex justify-between items-center p-4">
         <div className="text-xl font-bold">
-          <span className="text-gray-800">Store</span>
+          <span className="text-gray-800">EStore</span>
         </div>
         <div className="hidden md:flex space-x-4">
           <a href="#" className="text-gray-600 hover:text-gray-800">
